@@ -12,16 +12,12 @@ PyBer is a Python based ride-sharing app company. An exploratory analysis will b
 ## Summary
 
 - Created a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the average number of drivers for each city type: urban, suburban, and rural. 
-
-Figure 1:
 <img src="analysis/Fig1.png" height="300">
 
 - Box-and-whisker plots were created to display information about the distribution of rides, fares, and drivers for each city type. Comparing the ride count data, it can be seen that the average number of rides in the rural cities is about 4 to 3.5 times lower than urban and suburban cities, respectively. In addition, there is one outlier, 39 rides in West Angela, from the urban ride count. 
-Figure 2:
 <img src="analysis/Fig2.png" height="350">
 
 - The average fare for rides in the rural cities is about $11 and $5 more per ride than the urban and suburban cities, respectively. Comparing to the ride count data, it can be determined that as the number of rides decrease in each city type, the price of the fare increases. 
-
 <img src="analysis/Fig3.png" height="350">
 
 - The average number of drivers in rural cities is 9 to 4 times lower per city than urban and suburban cities respectively. Overall, city types with less drivers have fewer rides and higher fare prices. 
