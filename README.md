@@ -35,7 +35,7 @@ PyBer is a Python based ride-sharing app company. An exploratory analysis will b
 ## Challenge Overview
 Created a summary DataFrame of ride-sharing key metrics by city type and created a multiple-line graph that shows the total fares for each week by each city type. 
 
-## Challenge Reprt
+## Challenge Report
 
 We have started to breakdown and analyze ride sharing data by creating bubble charts, box-and-whisker plots, and pie charts to determine correlations between the number of rides and drivers and fare price depending on city type: urban, suburban, rural. To further analyze the data, a summary DataFrame has been compiled to allow us to have a quick look as to how the data varies for each city type. From the DataFrame, we can gather that rural cities have the lowest number of rides and drivers, but the highest average fare per ride and highest average fare per driver. In addition to the summary DataFrame, we also plotted total fare by city type over the span of multiple months. Overall, the urban cities amounted more total fares than suburban and rural cities, respectively. In addition, an increase in total fares can be seen about mid-February. The summary DataFrame and line chart are displayed below:
 
