@@ -8,6 +8,24 @@
 
 ## Summary
 
+![](analysis/Fig1.png)
+
+![](analysis/Fig2.png)
+
+![](analysis/Fig3.png)
+
+![](analysis/Fig4.png)
+
+![](analysis/Fig5.png)
+
+![](analysis/Fig6.png)
+
+![](analysis/Fig7.png)
+
 ## Challenge Overview
 
 ## Challenge Summary
+
+![](analysis_challenge/Fig1.png)
+
+![](analysis_challenge/Fig2.png)
