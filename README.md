@@ -8,19 +8,19 @@
 
 ## Summary
 
-![](analysis/Fig1.png)
+<img src="analysis/Fig1.png" height="300">
 
-![](analysis/Fig2.png)
+<img src="analysis/Fig2.png" height="350">
 
-![](analysis/Fig3.png)
+<img src="analysis/Fig3.png" height="350">
 
-![](analysis/Fig4.png)
+<img src="analysis/Fig4.png" height="350">
 
-![](analysis/Fig5.png)
+<img src="analysis/Fig5.png" height="400">
 
-![](analysis/Fig6.png)
+<img src="analysis/Fig6.png" height="400">
 
-![](analysis/Fig7.png)
+<img src="analysis/Fig7.png" height="400">
 
 ## Challenge Overview
 
@@ -28,4 +28,4 @@
 
 ![](analysis_challenge/Fig1.png)
 
-![](analysis_challenge/Fig2.png)
+<img src="analysis_challenge/Fig2.png" height="350">
